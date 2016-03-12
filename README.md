@@ -1,7 +1,9 @@
 # hello-world
 My first repository
 
-This projects is just to say hello.
+Hi there, 
 
-"Hello World"
+I am a programming autodidact. 
+Right now I am digging myself through Java on the Basis of the Book "Java ist auch eine Insel".
+Constructive criticism is wellcome.
 
